@@ -10,7 +10,7 @@ This repository can be forked or cloned to create a new subpage.
 4. Edit the index.html file
 
 ## Tableau Dashboards
-If you want to simply create another page with another Tableau dashboard, you only need to edit two lines of code:
+If you want to simply create another page with another public Tableau dashboard, you only need to edit two lines of code:
 
 ### 1. HTML Title
 The [HTML title](https://www.w3schools.com/tags/tag_title.asp). Set it to something fairly descriptive without being too long. End with " - IFRC Go" to show it's a page on Go.
